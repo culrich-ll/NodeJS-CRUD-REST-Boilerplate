@@ -1,4 +1,4 @@
-## Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate
+## NodeJS-CRUD-REST-API-Boilerplate
 
 > To help support this TypeScript boilerplate, please take a moment to look at my official **Design Patterns in TypeScript** book and **TypeScript Courses**. <br/>  
 >  <img src="docs/threejs-course-image-w100.png" style="margin-bottom:-4px"> [Three.js and TypeScript](https://www.udemy.com/course/threejs-tutorials/?referralCode=4C7E1DE91C3E42F69D0F)
@@ -56,12 +56,12 @@ I've also added gitlab-ci.yml and dockerised with Docker-Compose. See video tuto
 ## Heroku
 
 You can also test this on heroku
-https://seans-typescript-nodejs-crud.herokuapp.com/cats
+https://TODO
 
 and view the Swagger-UI
-https://seans-typescript-nodejs-crud.herokuapp.com/swagger
+https://TODO
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/culrich-ll/NodeJS-CRUD-REST-Boilerplate)
 
 ## Usage
 

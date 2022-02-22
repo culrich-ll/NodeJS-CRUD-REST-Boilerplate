@@ -50,9 +50,9 @@ You can also test this on heroku
 https://
 
 and view the Swagger-UI
-https://seans-typescript-nodejs-crud.herokuapp.com/swagger
+https://nodejs-boilerplate.herokuapp.com/swagger
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/culrich-ll/NodeJS-CRUD-REST-Boilerplate)
 
 ## Usage
 

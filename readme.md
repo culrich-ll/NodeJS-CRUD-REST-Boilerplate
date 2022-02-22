@@ -143,5 +143,3 @@ To help support my projects, please check out my books.
 ---
 
 Thanks
-
-Sean
